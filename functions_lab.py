@@ -15,4 +15,4 @@ def avg_numbers(x1, x2, x3):
     return (x1+x2+x3)/3
 
 
-print(avg_numbers(3, 4, 5)) 
+print(avg_numbers(3, 4, 5))
