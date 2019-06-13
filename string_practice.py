@@ -58,7 +58,9 @@ print(palindrome("Computers"))
 name = input('Enter your First Name: ')
 name2 = input('Enter your Last Name: ')
 city = input('Enter your Birth City: ')
-university = ('Enter ')
+university = input('Enter the University you Graduated from: ')
+relative_name = input('Enter a Relative\'s name: ')
+friend_name = input('Enter a Friends\'s name: ')
 
 
 
