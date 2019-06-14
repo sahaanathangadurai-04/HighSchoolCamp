@@ -69,6 +69,7 @@ def draw_stick_figure(screen, x, y):
     pygame.draw.line(screen, BROWN, [200 + x, 600 + y], [300 + x, 675 + y], 8)
 
 
+
 # Loop as long as done == False
 while not done:
     ball_pos += ball_change

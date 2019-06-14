@@ -8,7 +8,7 @@ def age_calculator(year1, year2):
     return year1 - year2
 
 
-print(age_calculator(2019, 2003))
+print(age_calculator(2019, 1970))
 
 
 def avg_numbers(x1, x2, x3):
